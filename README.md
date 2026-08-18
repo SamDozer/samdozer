@@ -208,13 +208,6 @@ Science and free software want the same thing. A result you can't reproduce isn'
 > ### *"My work on free software is motivated by an idealistic goal: spreading freedom and cooperation."*
 >
 > — **Richard Stallman**
-
-Two more from him that I keep coming back to:
-
-> *"Cooperation is more important than copyright."*
-
-> *"Free software is part of human knowledge."*
-
 <div align="center">
 
 ![Open Source](https://img.shields.io/badge/Open_Source-Believer-A6CE39?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
