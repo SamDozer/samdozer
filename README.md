@@ -1,11 +1,10 @@
 <!--
   ════════════════════════════════════════════════════════════════
   HOSSAM (@SamDozer) — GITHUB PROFILE README
-  Only remaining placeholders:
-    #LINKEDIN#  → your LinkedIn URL
-    #SCHOLAR#   → Google Scholar (or delete the badge)
-    #ORCID#     → ORCID (or delete the badge)
+  Only remaining placeholder:
+    #LINKEDIN#  → your LinkedIn URL (appears twice)
   Everything else is filled in and live.
+  This README is fully self-contained — no image files to upload.
   ════════════════════════════════════════════════════════════════
 -->
 
@@ -21,8 +20,7 @@
 
   <a href="#LINKEDIN#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:hossam.mahmoud12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="#SCHOLAR#"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
-  <a href="#ORCID#"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
+  <a href="https://github.com/SamDozer?tab=repositories"><img src="https://img.shields.io/badge/Open_Source-MIT-A6CE39?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source"/></a>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=SamDozer&label=Profile%20Views&color=6366F1&style=for-the-badge&abbreviated=true" alt="Profile views"/>
   <a href="https://github.com/SamDozer?tab=followers"><img src="https://img.shields.io/github/followers/SamDozer?label=Follow&style=social" alt="Followers"/></a>
@@ -50,14 +48,10 @@ principle: "If it isn't reproducible, it isn't a result"
 - 🎸 Shipping **[exercio](https://github.com/SamDozer/exercio)** — an offline-first guitar practice app, currently in public beta
 - 🧠 Drawn to **computational neuroscience** — modeling the brain is the problem I most want to work on next
 - 🔭 Also interested in **structural biophysics, biological modeling, and open reproducible science**
-- 📫 Reach me at **202128687@std.sci.cu.edu.eg**
+- 📫 Reach me at **hossam.mahmoud12@gmail.com**
 
 <!-- ===================== FLAGSHIP: EXERCIO ===================== -->
 ## 🎸 Flagship Project — Exercio
-
-<div align="center">
-  <img src="assets/guitar.svg" alt="Animated electric guitar with vibrating strings" width="100%" />
-</div>
 
 > ### [**exercio**](https://github.com/SamDozer/exercio) — offline-first guitar practice, routine building & progress tracking
 >
@@ -202,6 +196,31 @@ Between simulation runs, I'm usually on the guitar — which is exactly how [exe
   <em>A brutally honest look at my focus levels between experiments 👇</em>
   <br/><br/>
   <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="360" alt="Unproductive all day"/>
+</div>
+
+<!-- ===================== FREE SOFTWARE ===================== -->
+## 🕊️ Free Software & Open Source
+
+I'm a firm believer in **free and open source software** — it's the reason I adore GitHub and platforms like it. Knowledge that can be read, copied, corrected and built upon is knowledge that survives. That belief isn't decorative: **every public repository I own is MIT licensed**, and [exercio](https://github.com/SamDozer/exercio) is free software down to its fonts.
+
+Science and free software want the same thing. A result you can't reproduce isn't a result; a program you can't read isn't knowledge. Both only work when people are allowed to look inside.
+
+> ### *"My work on free software is motivated by an idealistic goal: spreading freedom and cooperation."*
+>
+> — **Richard Stallman**
+
+Two more from him that I keep coming back to:
+
+> *"Cooperation is more important than copyright."*
+
+> *"Free software is part of human knowledge."*
+
+<div align="center">
+
+![Open Source](https://img.shields.io/badge/Open_Source-Believer-A6CE39?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+![MIT](https://img.shields.io/badge/All_My_Repos-MIT-6366F1?style=for-the-badge&logo=github&logoColor=white)
+![GNU](https://img.shields.io/badge/Free_Software-GNU-8B5CF6?style=for-the-badge&logo=gnu&logoColor=white)
+
 </div>
 
 <!-- ===================== CONNECT ===================== -->
