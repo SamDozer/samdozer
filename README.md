@@ -50,7 +50,7 @@ principle: "If it isn't reproducible, it isn't a result"
 - 🎸 Shipping **[exercio](https://github.com/SamDozer/exercio)** — an offline-first guitar practice app, currently in public beta
 - 🧠 Drawn to **computational neuroscience** — modeling the brain is the problem I most want to work on next
 - 🔭 Also interested in **structural biophysics, biological modeling, and open reproducible science**
-- 📫 Reach me at **hossam.mahmoud12@gmail.com**
+- 📫 Reach me at **202128687@std.sci.cu.edu.eg**
 
 <!-- ===================== FLAGSHIP: EXERCIO ===================== -->
 ## 🎸 Flagship Project — Exercio
