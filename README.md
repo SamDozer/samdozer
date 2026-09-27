@@ -30,14 +30,13 @@
 <!-- ===================== ABOUT ME ===================== -->
 ## 🧬 About Me
 
-I'm a **computational biologist** at **Cairo University** who builds the tooling that makes computational science reproducible. Most of my work turns a messy simulation directory into something a reader can actually trust: automated analysis, publication-quality figures, and a provenance record of exactly how every number was produced.
-
+Computational biologist interested in computational neuroscience and computational biology, exploring how mathematics, computation, and biological systems intersect to tackle modern scientific problems. I build reproducible tools and workflows that turn complex data and simulations into structured, interpretable, and trustworthy results.
 I also play **guitar** — and my favourite project is the one where those two worlds collide.
+
 
 ```yaml
 name:      Hossam
 role:      Computational Biologist  ·  Simulation & Scientific Tooling
-based in:  Cairo, Egypt  ·  Cairo University
 works on:  GROMACS molecular dynamics · tumor growth modeling · reproducible pipelines
 curious:   computational neuroscience · structural biophysics
 also:      Flutter apps for guitarists  🎸
@@ -48,7 +47,6 @@ principle: "If it isn't reproducible, it isn't a result"
 - 🎸 Shipping **[exercio](https://github.com/SamDozer/exercio)** — an offline-first guitar practice app, currently in public beta
 - 🧠 Drawn to **computational neuroscience** — modeling the brain is the problem I most want to work on next
 - 🔭 Also interested in **structural biophysics, biological modeling, and open reproducible science**
-- 📫 Reach me at **hossam.mahmoud12@gmail.com**
 
 <!-- ===================== FLAGSHIP: EXERCIO ===================== -->
 ## 🎸 Flagship Project — Exercio
