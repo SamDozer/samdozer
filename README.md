@@ -31,8 +31,6 @@
 ## 🧬 About Me
 
 Computational biologist interested in computational neuroscience and computational biology, exploring how mathematics, computation, and biological systems intersect to tackle modern scientific problems. I build reproducible tools and workflows that turn complex data and simulations into structured, interpretable, and trustworthy results.
-I also play **guitar** — and my favourite project is the one where those two worlds collide.
-
 
 ```yaml
 name:      Hossam
